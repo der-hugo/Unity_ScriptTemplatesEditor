@@ -1,0 +1,19 @@
+{
+  "name": "com.derhugo.scripttemplateseditor",
+  "version": "1.0.0",
+  "displayName": "Script Templates Editor",
+  "description": "Easy way to customize script templates on a per project basis",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/der-hugo/Unity_ScriptTemplatesEditor/blob/main/README.md",
+  "changelogUrl": "https://github.com/der-hugo/Unity_ScriptTemplatesEditor/releases",
+  "licensesUrl": "https://github.com/der-hugo/Unity_ScriptTemplatesEditor/blob/main/LICENSE",
+ "keywords": [
+    "template",
+    "custom",
+    "editor"
+  ],
+  "author": {
+    "name": "derHugo",
+    "url": "https://github.com/der-hugo"
+  }
+}
